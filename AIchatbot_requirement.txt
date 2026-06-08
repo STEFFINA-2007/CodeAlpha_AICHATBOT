@@ -1,5 +1,3 @@
-Libaries to be Downloaded
-
 streamlit
 nltk
 scikit-learn
